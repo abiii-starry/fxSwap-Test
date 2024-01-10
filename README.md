@@ -21,7 +21,8 @@
         "REMOTE_DEBUGGING_PORT": 9222
     }   
     ```
+3. Update the baseUrl in **cypress.config.js**
 
-3. yarn
+4. yarn
 
-4. yarn cypress-run
+5. yarn cypress-run

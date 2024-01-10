@@ -10,7 +10,7 @@ module.exports = defineConfig({
       synpressPlugins(on, config);
     },
     testIsolation: true,
-    baseUrl: "https://batchtransfer.fxwallet.com/",
+    baseUrl: "",
     supportFile: "cypress/support/e2e.js",
     // specPattern: []
   },
