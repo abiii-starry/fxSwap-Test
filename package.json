@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@synthetixio/synpress": "3.7.1",
+    "cypress": "12.7.0",
+    "env-cmd": "^10.1.0"
+  }
+}
