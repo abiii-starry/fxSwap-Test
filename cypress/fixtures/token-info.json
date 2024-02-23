@@ -1,0 +1,19 @@
+{
+    "polygon": {
+        "MATIC": {
+            "contract": "coin",
+            "symbol": "MATIC"
+        },
+        "SHIB": {
+            "contract": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec",
+            "symbol": "Shiba Inu"
+        },
+        "1INCH": {
+            "contract": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f",
+            "symbol": "1INCH"
+        }
+    },
+    "fantom": {
+
+    }
+}

@@ -10,8 +10,8 @@
 
     ```
     {
-        SKIP_METAMASK_INSTALL: true
-        SKIP_METAMASK_SETUP: true
+        SKIP_METAMASK_INSTALL: false,
+        SKIP_METAMASK_SETUP: false,
         "NETWORK_GOERLI": "goerli",
         "NETWORK_MAINNET": "mainnet",
         "SECRET_WORDS": your_secret_words,
@@ -26,3 +26,7 @@
 4. yarn
 
 5. yarn cypress-run
+
+
+## Possible problems
+1. Metamask failed to download: Manual download in the node_modules directory
