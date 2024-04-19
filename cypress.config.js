@@ -10,7 +10,7 @@ module.exports = defineConfig({
       synpressPlugins(on, config);
     },
     testIsolation: true,
-    baseUrl: "https://swap.fxwallet.com/",
+    baseUrl: "https://develop.fx-swap-frontend.pages.dev/",
     supportFile: "cypress/support/e2e.js",
     // specPattern: []
   },

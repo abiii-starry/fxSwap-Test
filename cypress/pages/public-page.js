@@ -10,7 +10,7 @@ class PublicPage{
 
     // Switch to chain
     getNetworkBoard() {
-        return cy.get("w3m-modal")
+        return cy.get("w3m-modal").shadow()
     }
 
     getConnectBoard() {

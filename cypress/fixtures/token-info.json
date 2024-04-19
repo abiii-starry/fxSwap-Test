@@ -1,6 +1,6 @@
 {
     "polygon": {
-        "MATIC": {
+        "coin": {
             "contract": "coin",
             "symbol": "MATIC"
         },
